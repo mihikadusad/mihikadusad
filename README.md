@@ -1,4 +1,6 @@
-# 🌟 **Hi, I'm Mihika Dusad** 👋  
+![Animated Header](https://github.com/mihikadusad/mihikadusad/blob/main/github_intro.gif)
+
+
 ## 🚀 Algorithmic Engineer | Machine Learning Enthusiast | Blockchain Explorer | Sustainability Advocate 🌱
 
 ## 🚀 Welcome to My GitHub!
