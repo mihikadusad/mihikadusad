@@ -1,4 +1,4 @@
-![Animated Header](https://github.com/mihikadusad/mihikadusad/blob/main/github_intro.gif)
+![Animated Header](https://github.com/mihikadusad/mihikadusad/blob/main/assets/github_intro_v3.gif)
 
 
 ## 🚀 Algorithmic Engineer | Machine Learning Enthusiast | Blockchain Explorer | Sustainability Advocate 🌱
