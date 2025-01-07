@@ -22,8 +22,8 @@ A quick peek into my journey of creating technology that matters:
 - **🏥 CT Scan Radiation Reduction**  
   Created algorithms to minimize radiation exposure in **CT scans**, deployed at local hospitals.
 
-- **🌱 Sustainability-Focused Supply Chain Optimization**  
-  I’m working on a model that helps companies reduce their **CO2 emissions** by identifying points in the manufacturing chain where **green energy** is cheaper.
+- **🌱 Cybersecurity Solutions for Autonomous Networks**  
+  I’m working on a platform that helps autonomous networks reduce **cybersecurity** threats by identifying vulnerable points and ensuring immutability.
 
 ---
 
@@ -65,13 +65,13 @@ You can always find me here:
 
 ## 🌍 **My Vision for the Future**
 
-I’m constantly exploring ways to **optimize processes**, **solve meaningful problems**, and **contribute to the future of technology**. Whether it’s through **AI-driven decision making** or **sustainable tech innovations**, my goal is always to **make a positive impact**.
+I’m constantly exploring ways to **optimize processes**, **solve meaningful problems**, and **contribute to the future of technology**. Whether it’s through **AI-driven decision making** or **cybersecurity in AI**, my goal is always to **make a positive impact**.
 
 ---
 
 ### 🛠️ **Featured Repositories**  
 
-- [🔗 **Autonomous Vehicle Blockchain Network**](https://github.com/yourrepo)  
+- [🔗 **Autonomous Vehicle Blockchain Network**](https://github.com/hypefl)  
   Blockchain-driven decentralized vehicle communication.
 - [📡 **Bayesian Object Tracking System**](https://github.com/yourrepo)  
   Multi-party tracking system based on Bayesian algorithms.
@@ -79,8 +79,6 @@ I’m constantly exploring ways to **optimize processes**, **solve meaningful pr
   Predicts sociopolitical risks worldwide using reinforcement learning.
 - [⚡ **CT Scan Radiation Exposure Reduction**](https://github.com/yourrepo)  
   Software designed to reduce CT scan radiation exposure.
-- [🌱 **Sustainability Supply Chain Optimization**](https://github.com/yourrepo)  
-  A model optimizing supply chains with green energy incentives.
 
 ---
 
