@@ -1,8 +1,6 @@
 ![Animated Header](https://github.com/mihikadusad/mihikadusad/blob/main/assets/github_intro_v3.gif)
 
 
-## 🚀 Algorithmic Engineer | Machine Learning Enthusiast | Blockchain Explorer | Sustainability Advocate 🌱
-
 ## 🚀 Welcome to My GitHub!
 
 I'm Mihika, a tech enthusiast with over **10 years of experience** solving complex algorithmic challenges and creating innovative solutions. From **AI** to **blockchain**, I thrive on building things that push boundaries and have a real-world impact.
