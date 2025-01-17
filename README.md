@@ -73,10 +73,8 @@ I’m constantly exploring ways to **optimize processes**, **solve meaningful pr
 
 - [🔗 **Autonomous Vehicle Blockchain Network**](https://github.com/mihikadusad/HypeFL)  
   Blockchain-driven decentralized vehicle communication.
-- [📡 **Bayesian Object Tracking System**](https://github.com/yourrepo)  
+- [📡 **Bayesian Object Tracking System**](https://github.com/mihikadusad/WanderWatch)  
   Multi-party tracking system based on Bayesian algorithms.
-- [🤖 **Sociopolitical Risk Prediction Model**](https://github.com/yourrepo)  
-  Predicts sociopolitical risks worldwide using reinforcement learning.
 - [⚡ **CT Scan Radiation Exposure Reduction**](https://github.com/yourrepo)  
   Software designed to reduce CT scan radiation exposure.
 
