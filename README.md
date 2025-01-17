@@ -3,10 +3,10 @@
 
 ## 🚀 Welcome to My GitHub!
 
-I'm Mihika, and I have over **5 years of experience** solving complex algorithmic problems and developing innovative solutions. From **AI** to **blockchain**, the possibilites are endless. I seek to build things that push boundaries and have a real-world impact.
+I'm Mihika, and I have over **5 years of experience** solving complex algorithmic problems and developing innovative solutions. From **AI** to **blockchain**, the possibilites are endless. I seek to build things that push boundaries and improve the conditions of our world.
 
 ### 📍 **Currently at MIT**  
-As a **freshman at MIT**, I'm on a mission to explore, experiment, and bring new ideas to life. Whether it's **reinforcement learning**, **supply chain optimization**, or **cybersecurity solutions**, I’m always on the lookout for challenges that blend **cutting-edge technology** with **meaningful influence**.
+As a **freshman at MIT**, I'm on a mission to explore, experiment, and bring new ideas to life. Whether it's **reinforcement learning**, **supply chain optimization**, or **cybersecurity solutions**, I’m always on the lookout for challenges that combine **cutting-edge technology** with **meaningful impact**.
 
 ---
 
@@ -20,7 +20,7 @@ A quick peek into my journey of creating technology that matters:
   Developed a **decentralized blockchain network** for fully autonomous vehicles to communicate securely in real-time.
 
 - **🏥 CT Scan Radiation Reduction**  
-  Created algorithms to minimize radiation exposure in **CT scans**, deployed at local hospitals.
+  Created a novel mathematical algorithm to minimize radiation exposure in **CT scans**, deployed at local hospitals.
 
 - **🌱 Cybersecurity Solutions for Autonomous Networks**  
   I’m working on a platform that helps autonomous networks reduce **cybersecurity** threats by identifying vulnerable points and ensuring immutability.
@@ -45,10 +45,10 @@ A quick peek into my journey of creating technology that matters:
 ### 🏆 **Achievements & Recognitions**
 
 - **NeurIPS Spotlight** 🌟  
-  Recognized as a **spotlight project** at **NeurIPS** during high school—one of the biggest milestones in my early career.
+  Recognized as a **spotlight project** at **NeurIPS** during high school - a major milestone in my early career.
 
 - **HackMIT Blueprint - 1st Place** 🏆  
-  Won **first place overall** at **HackMIT Blueprint**, where I built impactful solutions under intense time constraints.
+  Won **first place overall** at **HackMIT Blueprint**, where I built WanderWatch.
 
 - **Internships at Top Labs** 🧑‍🔬  
   Gained hands-on experience at **Johns Hopkins Applied Physics Lab** and **MIT Lincoln Labs**, applying **AI** and **data modeling** to real-world problems.
