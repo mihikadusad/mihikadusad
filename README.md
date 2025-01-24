@@ -75,16 +75,14 @@ I’m constantly exploring ways to **optimize processes**, **solve meaningful pr
   Blockchain-driven decentralized vehicle communication.
 - [📡 **Bayesian Object Tracking System**](https://github.com/mihikadusad/WanderWatch)  
   Multi-party tracking system based on Bayesian algorithms.
-- [⚡ **CT Scan Radiation Exposure Reduction**](https://github.com/yourrepo)  
-  Software designed to reduce CT scan radiation exposure.
 
 ---
 
 ### 🔧 **Technologies & Tools I Use**
 
-- **Languages**: Python, C++, Java, Julia, HTML  
-- **Frameworks & Libraries**: TensorFlow, PyTorch, OpenCV, Scikit-learn, Flask  
-- **Blockchain**: Ethereum, Solidity  
+- **Languages**: Python, C++, Java, Julia, HTML, SQL  
+- **Frameworks & Libraries**: TensorFlow, PyTorch, OpenCV, Scikit-learn, Flask
+- **Blockchain**: Ethereum  
 - **Other**: Docker, Kubernetes, AWS, GCP  
 
 ---
