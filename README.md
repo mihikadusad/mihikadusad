@@ -6,7 +6,7 @@
 I'm Mihika, and I have over **5 years of experience** solving complex algorithmic problems and developing innovative solutions. From **AI** to **blockchain**, the possibilites are endless. I seek to build things that push boundaries and improve the conditions of our world.
 
 ### 📍 **Currently at MIT**  
-As a **freshman at MIT**, I'm on a mission to explore, experiment, and bring new ideas to life. Whether it's **reinforcement learning**, **supply chain optimization**, or **cybersecurity solutions**, I’m always on the lookout for challenges that combine **cutting-edge technology** with **meaningful impact**.
+As a student at MIT, I'm on a mission to explore, experiment, and bring new ideas to life. Whether it's **reinforcement learning**, **supply chain optimization**, or **cybersecurity solutions**, I’m always on the lookout for challenges that combine **cutting-edge technology** with **meaningful impact**.
 
 ---
 
