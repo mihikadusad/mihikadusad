@@ -3,7 +3,7 @@
 
 ## 🚀 Welcome to My GitHub!
 
-I'm Mihika, and I have over **5 years of experience** solving complex algorithmic problems and developing innovative solutions. From **AI** to **blockchain**, the possibilites are endless. I seek to build things that push boundaries and improve the conditions of our world.
+I'm Mihika, and I have over **5 years of experience** solving complex algorithmic problems and developing innovative solutions. I love to learn, and I seek to build things that push boundaries and improve the quality of life.
 
 ### 📍 **Currently at MIT**  
 As a student at MIT, I'm on a mission to explore, experiment, and bring new ideas to life. Whether it's **reinforcement learning**, **supply chain optimization**, or **cybersecurity solutions**, I’m always on the lookout for challenges that combine **cutting-edge technology** with **meaningful impact**.
@@ -14,7 +14,7 @@ As a student at MIT, I'm on a mission to explore, experiment, and bring new idea
 A quick peek into my journey of creating technology that matters: 
 
 - **🌍 Sociopolitical Risk Prediction**  
-  As a computational finance researcher at the [MITRE Corporation](https://www.mitre.org/), I am working towards building a reinforcement learning model that can predict and quantify sociopolitical risk in **120+ nations** using real-time data.
+  As a computational finance researcher at the [MITRE Corporation](https://www.mitre.org/), I worked towards building a reinforcement learning model that can predict and quantify sociopolitical risk in **120+ nations** using real-time data.
 
 - **🛠️ Autonomous Vehicle Blockchain**  
   Developed a **decentralized blockchain network** for fully autonomous vehicles to communicate securely in real-time.
